@@ -1,5 +1,5 @@
 ## Hey, I'm Daniel.
-I live in Melbourne. I like playing video games, music, and coding.
+I create applications! Living in Wodonga. Interests include gym, volleyball, music.
 ### Get in Touch
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dagbay@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dagbay)
